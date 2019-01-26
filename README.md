@@ -1,3 +1,3 @@
-# An impure public good model of local food systems: Aggregative games of four locals
+# Working paper and code
 
-A [link](m011.pdf) for the paper.
+[An impure public good model of local food systems: Aggregative games of four locals](m011.pdf)
